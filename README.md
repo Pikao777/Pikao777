@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=180&section=header&text=Pikao&fontSize=40&fontColor=fff)
+
+
+
 <!--
 **Pikao777/Pikao777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
