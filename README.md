@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=180&section=header&text=Pikao&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=28&center=true&vCenter=true&width=600&height=50&lines=AI+Engineer+%7C+LLM+Workflow+Engineer;OCR+%26+Automation+Specialist)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -31,9 +32,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=fff)
 
-### AI & ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff)
+### LLM & AI Integration
+![MCP](https://img.shields.io/badge/MCP-4E9A06?style=for-the-badge&logo=protocol&logoColor=fff)
+![LangChain](https://img.shields.io/badge/LangChain-0E83CD?style=for-the-badge&logo=chainlink&logoColor=fff)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-005CB9?style=for-the-badge&logo=paddlepaddle&logoColor=fff)
+![RAG](https://img.shields.io/badge/RAG_Workflows-1E90FF?style=for-the-badge&logo=semanticweb&logoColor=fff)
 
 ---
 
