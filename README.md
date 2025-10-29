@@ -14,8 +14,6 @@
 🔭 Currently working on: LLM + MCP semantic workflows  
 🌱 Exploring: RAG, Vision-Language Models, Automation Agents  
 💬 Ask me about: FastAPI, n8n, OCR pipelines, MCP Servers  
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/xxx/) | [Blog](https://www.ignsw.com)
-
 
 
 ---
