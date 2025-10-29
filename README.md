@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=180&section=header&text=Pikao&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=28&center=true&vCenter=true&width=800&height=50&lines=AI+Engineer+%7C+Python+Developer+%7C+LLM+Workflow+Engineer;OCR+Specialist+%7C+Automation+Engineer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=28&center=true&vCenter=true&width=600&height=50&lines=AI+Engineer+%7C+LLM+Workflow+Engineer;OCR+%26+Automation+Specialist)](https://git.io/typing-svg)
 </div>
 
 ---
