@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=180&section=header&text=Pikao&fontSize=40&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=180&section=header&text=Pikao&fontSize=40&fontColor=ff2222f)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI+Engineer+%7C+Python+Developer+%7C+LLM+Architect)](https://git.io/typing-svg)
 
