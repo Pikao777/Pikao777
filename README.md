@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=180&section=header&text=Pikao&fontSize=40&fontColor=fff)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI+Engineer+%7C+Python+Developer+%7C+LLM+Architect)](https://git.io/typing-svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pikao777&layout=compact&theme=tokyonight)
 
 <!--
 **Pikao777/Pikao777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
